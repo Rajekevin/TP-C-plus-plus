@@ -7,6 +7,5 @@ int main()
  printf("Bonjour\n");
  
   return 0;
-²
 
 }
